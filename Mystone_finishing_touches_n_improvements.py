@@ -7,7 +7,7 @@ import random
 
 #  Designing the board
 
-#  Top blank, bottom blank -- Used for all blanks but bottom line and all top lines for letters
+#  Top blank, bottom blank -- Used for all 9 blanks
 row_top_blank = ([' ' * 14 + '|', ' ' * 14 + '|', ' ' * 14])
 
 #  Board separator line -- Used with every row but bottom row
